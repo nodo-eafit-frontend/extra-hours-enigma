@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"employee_id": 111,
+		"name": "Juan Pérez",
+		"position": "Desarrollador",
+		"supervisor_id": 3,
+		"salary": 5500000
+	},
+
+    {
+		"id": 2,
+		"employee_id": 222,
+		"name": "Guillermo lopez",
+		"position": "Desarrollador",
+		"supervisor_id": 4,
+		"salary": 5500000
+	}
+]

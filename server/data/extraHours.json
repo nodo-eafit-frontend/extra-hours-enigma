@@ -1,0 +1,13 @@
+[
+    {
+        "employee_id": 111,
+        "date": "12-07-2024",
+        "extraHours": 3
+    },
+    {
+        "employee_id": 222,
+        "date": "7-07-2024",
+        "extraHours": 2
+    }
+
+]
